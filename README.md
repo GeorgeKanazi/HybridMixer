@@ -30,7 +30,9 @@ We evaluated the model on **CIFAR-10** and **CIFAR-100**. The Hybrid Mixer demon
 
 ![Accuracy Chart](assets/accuracy_chart.png)
 
-## 🛠️ Usage
-To train the model on CIFAR-10:
-```bash
-python train.py --dataset cifar10 --model hybrid_mixer --epochs 30
+## 👥 Authors
+* **George Kanazi**
+* **Ammar Mnaa**
+* **Adam Eisa**
+
+*[Submitted as a Final Project for the Deep Learning Course at Ben-Gurion University]*
