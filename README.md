@@ -20,4 +20,3 @@ We evaluated the model on **CIFAR-10** and **CIFAR-100**. [cite_start]The Hybrid
 | **CIFAR-10** | 76.71% | **82.27%** | **+5.56%** |
 | **CIFAR-100** | 48.20% | **55.03%** | **+6.83%** |
 
-    [cite_start]*[Data source: Project Presentation Slide 12]* [cite: 153-162]
